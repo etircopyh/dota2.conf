@@ -1,0 +1,9 @@
+"config"
+{
+	"bindings"
+	{
+		"\"		"toggleconsole"
+		"`"		"+showscores"
+		"F10"		"dota_apm"
+	}
+}
